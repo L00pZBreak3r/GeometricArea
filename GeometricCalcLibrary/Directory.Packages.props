@@ -1,0 +1,9 @@
+<Project>
+
+  <ItemGroup Label="Test">
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
+    <PackageVersion Include="xunit" Version="2.9.1" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="3.0.0-pre.35" />
+  </ItemGroup>
+
+</Project>
